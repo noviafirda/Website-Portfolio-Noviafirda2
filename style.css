@@ -698,7 +698,7 @@ body{
     }
 }
 
-@media(max-width:768px){
+@media(max-width:320px){
     .skills-container{
         grid-template-columns:1fr;
     }
